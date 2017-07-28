@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/id_add_kid_menu"
+          android:title="@string/menu_add"
+          android:icon="@android:drawable/ic_input_add"/>
+</menu>

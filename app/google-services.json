@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668025588422",
+    "firebase_url": "https://mfkids-2a941.firebaseio.com",
+    "project_id": "mfkids-2a941",
+    "storage_bucket": "mfkids-2a941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668025588422:android:05f2b245f811f671",
+        "android_client_info": {
+          "package_name": "com.febi.mfkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668025588422-84jjncph2r3q0nr20qa1vl8ivtdj06lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvyGQvY40YlM_k4LkUDFbC4qlkx7ASDho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
